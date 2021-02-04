@@ -1,0 +1,8 @@
+.grid{
+	columns: 2;
+}
+
+.form-group .a:before {
+  content:"*";
+  color:red;
+}
